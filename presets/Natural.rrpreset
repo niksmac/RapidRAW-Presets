@@ -10,6 +10,15 @@
           "chromaticAberrationBlueYellow": 0,
           "chromaticAberrationRedCyan": 0,
           "clarity": 10,
+          "colorCalibration": {
+            "blueHue": -2,
+            "blueSaturation": 8,
+            "greenHue": 3,
+            "greenSaturation": -5,
+            "redHue": 0,
+            "redSaturation": 8,
+            "shadowsTint": 0
+          },
           "colorGrading": {
             "balance": 0,
             "blending": 50,
@@ -29,7 +38,7 @@
               "saturation": 0
             }
           },
-          "colorNoiseReduction": 0,
+          "colorNoiseReduction": 5,
           "contrast": 15,
           "curves": {
             "blue": [
@@ -55,6 +64,7 @@
           "dehaze": 0,
           "enableNegativeConversion": false,
           "exposure": 0.2,
+          "brightness": 0,
           "filmBaseColor": "#ff8800",
           "grainAmount": 0,
           "grainRoughness": 50,
@@ -70,7 +80,7 @@
             "reds": { "hue": 0, "luminance": 0, "saturation": 0 },
             "yellows": { "hue": 0, "luminance": 0, "saturation": 0 }
           },
-          "lumaNoiseReduction": 0,
+          "lumaNoiseReduction": 5,
           "lutIntensity": 100,
           "lutName": null,
           "lutPath": null,
@@ -89,9 +99,9 @@
           "shadows": 15,
           "sharpness": 10,
           "showClipping": false,
-          "structure": 0,
-          "temperature": 0,
-          "tint": 0,
+          "structure": 5,
+          "temperature": 4,
+          "tint": 2,
           "vibrance": 10,
           "vignetteAmount": 0,
           "vignetteFeather": 50,

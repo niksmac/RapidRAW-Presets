@@ -9,7 +9,7 @@
           "blacks": 30,
           "chromaticAberrationBlueYellow": 0,
           "chromaticAberrationRedCyan": 0,
-          "clarity": -5,
+          "clarity": 0,
           "colorGrading": {
             "balance": 15,
             "blending": 50,
@@ -30,7 +30,7 @@
             }
           },
           "colorNoiseReduction": 0,
-          "contrast": -10,
+          "contrast": -5,
           "curves": {
             "blue": [
               { "x": 0, "y": 0 },
@@ -55,6 +55,7 @@
           "dehaze": 0,
           "enableNegativeConversion": false,
           "exposure": 0.7,
+          "brightness": 0,
           "filmBaseColor": "#ff8800",
           "grainAmount": 0,
           "grainRoughness": 50,
@@ -89,9 +90,9 @@
           "shadows": 50,
           "sharpness": 0,
           "showClipping": false,
-          "structure": -5,
+          "structure": 0,
           "temperature": 5,
-          "tint": 0,
+          "tint": 2,
           "vibrance": 15,
           "vignetteAmount": 0,
           "vignetteFeather": 50,

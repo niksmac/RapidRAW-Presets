@@ -29,7 +29,7 @@
               "saturation": 0
             }
           },
-          "colorNoiseReduction": 5,
+          "colorNoiseReduction": 10,
           "contrast": 25,
           "curves": {
             "blue": [
@@ -54,7 +54,8 @@
           },
           "dehaze": 5,
           "enableNegativeConversion": false,
-          "exposure": 0.1,
+          "exposure": 0.15,
+          "brightness": 0,
           "filmBaseColor": "#ff8800",
           "grainAmount": 0,
           "grainRoughness": 50,
@@ -70,7 +71,7 @@
             "reds": { "hue": 0, "luminance": 0, "saturation": 5 },
             "yellows": { "hue": 0, "luminance": 0, "saturation": 0 }
           },
-          "lumaNoiseReduction": 5,
+          "lumaNoiseReduction": 10,
           "lutIntensity": 100,
           "lutName": null,
           "lutPath": null,
@@ -87,11 +88,11 @@
             "effects": true
           },
           "shadows": 5,
-          "sharpness": 35,
+          "sharpness": 30,
           "showClipping": false,
           "structure": 15,
-          "temperature": 0,
-          "tint": 0,
+          "temperature": 3,
+          "tint": 2,
           "vibrance": 10,
           "vignetteAmount": -5,
           "vignetteFeather": 50,
