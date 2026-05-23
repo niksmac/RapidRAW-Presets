@@ -1,0 +1,103 @@
+{
+  "creator": "niksmac",
+  "presets": [
+    {
+      "preset": {
+        "id": "D4E5F6A7-B8C9-0123-DEF0-123456789023",
+        "name": "Golden Hour Wildlife",
+        "adjustments": {
+          "exposure": 0.2,
+          "brightness": 0,
+          "contrast": 18,
+          "highlights": -40,
+          "shadows": 20,
+          "whites": 5,
+          "blacks": 5,
+          "saturation": 0,
+          "vibrance": 8,
+          "temperature": 8,
+          "tint": 3,
+          "sharpness": 20,
+          "lumaNoiseReduction": 8,
+          "colorNoiseReduction": 8,
+          "clarity": 8,
+          "dehaze": 3,
+          "structure": 5,
+          "vignetteAmount": -15,
+          "vignetteMidpoint": 50,
+          "vignetteFeather": 55,
+          "vignetteRoundness": 0,
+          "grainAmount": 5,
+          "grainSize": 25,
+          "grainRoughness": 40,
+          "chromaticAberrationRedCyan": 0,
+          "chromaticAberrationBlueYellow": 0,
+          "showClipping": false,
+          "enableNegativeConversion": false,
+          "negativeRedBalance": 0,
+          "negativeGreenBalance": 0,
+          "negativeBlueBalance": 0,
+          "filmBaseColor": "#ff8800",
+          "lutIntensity": 100,
+          "lutName": null,
+          "lutPath": null,
+          "lutSize": 0,
+          "sectionVisibility": {
+            "basic": true,
+            "color": true,
+            "curves": true,
+            "details": true,
+            "effects": true
+          },
+          "colorGrading": {
+            "shadows": { "hue": 210, "saturation": 5, "luminance": 0 },
+            "midtones": { "hue": 25, "saturation": 10, "luminance": 3 },
+            "highlights": { "hue": 30, "saturation": 15, "luminance": 5 },
+            "blending": 50,
+            "balance": 3
+          },
+          "colorCalibration": {
+            "shadowsTint": 3,
+            "redHue": 2,
+            "redSaturation": 8,
+            "greenHue": 3,
+            "greenSaturation": -5,
+            "blueHue": -3,
+            "blueSaturation": -5
+          },
+          "hsl": {
+            "reds": { "hue": 0, "saturation": 0, "luminance": 0 },
+            "oranges": { "hue": -3, "saturation": 15, "luminance": 8 },
+            "yellows": { "hue": -5, "saturation": 10, "luminance": 12 },
+            "greens": { "hue": -8, "saturation": -15, "luminance": 0 },
+            "aquas": { "hue": 0, "saturation": 0, "luminance": 0 },
+            "blues": { "hue": -5, "saturation": -30, "luminance": -5 },
+            "purples": { "hue": 0, "saturation": 0, "luminance": 0 },
+            "magentas": { "hue": 0, "saturation": 0, "luminance": 0 }
+          },
+          "curves": {
+            "luma": [
+              { "x": 0, "y": 5 },
+              { "x": 60, "y": 52 },
+              { "x": 128, "y": 128 },
+              { "x": 200, "y": 212 },
+              { "x": 255, "y": 253 }
+            ],
+            "red": [
+              { "x": 0, "y": 0 },
+              { "x": 255, "y": 255 }
+            ],
+            "green": [
+              { "x": 0, "y": 0 },
+              { "x": 255, "y": 255 }
+            ],
+            "blue": [
+              { "x": 0, "y": 0 },
+              { "x": 255, "y": 255 }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

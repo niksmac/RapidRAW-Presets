@@ -1,0 +1,398 @@
+[
+  {
+    "name": "Natural",
+    "creator": "niksmac",
+    "adjustments": {
+      "exposure": 0,
+      "contrast": 15,
+      "highlights": -30,
+      "shadows": 20,
+      "whites": 5,
+      "blacks": 5,
+      "saturation": 0,
+      "vibrance": 5,
+      "temperature": 2,
+      "tint": 1,
+      "sharpness": 15,
+      "lumaNoiseReduction": 8,
+      "colorNoiseReduction": 8,
+      "clarity": 5,
+      "dehaze": 0,
+      "structure": 3,
+      "vignetteAmount": -5,
+      "vignetteMidpoint": 50,
+      "vignetteFeather": 50,
+      "vignetteRoundness": 0,
+      "grainAmount": 0,
+      "grainSize": 25,
+      "grainRoughness": 50,
+      "filmBaseColor": "#ff8800",
+      "sectionVisibility": { "basic": true, "color": true, "curves": true, "details": true, "effects": true },
+      "curves": {
+        "luma": [{ "x": 0, "y": 3 }, { "x": 64, "y": 55 }, { "x": 128, "y": 128 }, { "x": 192, "y": 205 }, { "x": 255, "y": 253 }]
+      }
+    }
+  },
+  {
+    "name": "Wildlife Detail",
+    "creator": "niksmac",
+    "adjustments": {
+      "exposure": 0.1,
+      "contrast": 20,
+      "highlights": -35,
+      "shadows": 15,
+      "whites": 8,
+      "blacks": -5,
+      "saturation": 0,
+      "vibrance": 8,
+      "temperature": 2,
+      "tint": 1,
+      "sharpness": 25,
+      "lumaNoiseReduction": 10,
+      "colorNoiseReduction": 10,
+      "clarity": 15,
+      "dehaze": 3,
+      "structure": 10,
+      "centré": 5,
+      "vignetteAmount": -8,
+      "vignetteMidpoint": 50,
+      "vignetteFeather": 55,
+      "vignetteRoundness": 0,
+      "grainAmount": 0,
+      "grainSize": 25,
+      "grainRoughness": 50,
+      "filmBaseColor": "#ff8800",
+      "colorCalibration": {
+        "redHue": 2,
+        "redSaturation": 5,
+        "greenHue": 3,
+        "greenSaturation": 0,
+        "blueHue": -2,
+        "blueSaturation": 5,
+        "shadowsTint": 0
+      },
+      "sectionVisibility": { "basic": true, "color": true, "curves": true, "details": true, "effects": true },
+      "curves": {
+        "luma": [{ "x": 0, "y": 3 }, { "x": 50, "y": 42 }, { "x": 128, "y": 128 }, { "x": 200, "y": 215 }, { "x": 255, "y": 253 }]
+      }
+    }
+  },
+  {
+    "name": "Wildlife Portrait",
+    "creator": "niksmac",
+    "adjustments": {
+      "exposure": 0.15,
+      "contrast": 12,
+      "highlights": -25,
+      "shadows": 20,
+      "whites": 5,
+      "blacks": 8,
+      "saturation": 0,
+      "vibrance": 3,
+      "temperature": 4,
+      "tint": 3,
+      "sharpness": 18,
+      "lumaNoiseReduction": 8,
+      "colorNoiseReduction": 8,
+      "clarity": 3,
+      "dehaze": 0,
+      "structure": 3,
+      "vignetteAmount": -12,
+      "vignetteMidpoint": 50,
+      "vignetteFeather": 60,
+      "vignetteRoundness": 0,
+      "grainAmount": 0,
+      "grainSize": 25,
+      "grainRoughness": 50,
+      "filmBaseColor": "#ff8800",
+      "colorGrading": {
+        "midtones": { "hue": 350, "saturation": 5, "luminance": 0 },
+        "highlights": { "hue": 20, "saturation": 5, "luminance": 3 },
+        "shadows": { "hue": 0, "saturation": 0, "luminance": 0 },
+        "blending": 50,
+        "balance": 3
+      },
+      "colorCalibration": {
+        "redHue": 2,
+        "redSaturation": 8,
+        "greenHue": 3,
+        "greenSaturation": -5,
+        "blueHue": 0,
+        "blueSaturation": -3,
+        "shadowsTint": 2
+      },
+      "hsl": {
+        "oranges": { "hue": -3, "saturation": -5, "luminance": 5 },
+        "yellows": { "hue": 0, "saturation": -8, "luminance": 3 },
+        "greens": { "hue": 0, "saturation": -20, "luminance": 0 }
+      },
+      "sectionVisibility": { "basic": true, "color": true, "curves": true, "details": true, "effects": true },
+      "curves": {
+        "luma": [{ "x": 0, "y": 5 }, { "x": 64, "y": 58 }, { "x": 128, "y": 128 }, { "x": 192, "y": 208 }, { "x": 255, "y": 253 }]
+      }
+    }
+  },
+  {
+    "name": "Golden Hour Wildlife",
+    "creator": "niksmac",
+    "adjustments": {
+      "exposure": 0.2,
+      "contrast": 18,
+      "highlights": -40,
+      "shadows": 20,
+      "whites": 5,
+      "blacks": 5,
+      "saturation": 0,
+      "vibrance": 8,
+      "temperature": 8,
+      "tint": 3,
+      "sharpness": 20,
+      "lumaNoiseReduction": 8,
+      "colorNoiseReduction": 8,
+      "clarity": 8,
+      "dehaze": 3,
+      "structure": 5,
+      "vignetteAmount": -15,
+      "vignetteMidpoint": 50,
+      "vignetteFeather": 55,
+      "vignetteRoundness": 0,
+      "grainAmount": 5,
+      "grainSize": 25,
+      "grainRoughness": 40,
+      "filmBaseColor": "#ff8800",
+      "colorGrading": {
+        "midtones": { "hue": 25, "saturation": 10, "luminance": 3 },
+        "highlights": { "hue": 30, "saturation": 15, "luminance": 5 },
+        "shadows": { "hue": 210, "saturation": 5, "luminance": 0 },
+        "blending": 50,
+        "balance": 3
+      },
+      "colorCalibration": {
+        "redHue": 2,
+        "redSaturation": 8,
+        "greenHue": 3,
+        "greenSaturation": -5,
+        "blueHue": -3,
+        "blueSaturation": -5,
+        "shadowsTint": 3
+      },
+      "hsl": {
+        "oranges": { "hue": -3, "saturation": 15, "luminance": 8 },
+        "yellows": { "hue": -5, "saturation": 10, "luminance": 12 },
+        "greens": { "hue": -8, "saturation": -15, "luminance": 0 },
+        "blues": { "hue": -5, "saturation": -30, "luminance": -5 }
+      },
+      "sectionVisibility": { "basic": true, "color": true, "curves": true, "details": true, "effects": true },
+      "curves": {
+        "luma": [{ "x": 0, "y": 5 }, { "x": 60, "y": 52 }, { "x": 128, "y": 128 }, { "x": 200, "y": 212 }, { "x": 255, "y": 253 }]
+      }
+    }
+  },
+  {
+    "name": "Forest Canopy",
+    "creator": "niksmac",
+    "adjustments": {
+      "exposure": 0,
+      "contrast": 22,
+      "highlights": -30,
+      "shadows": 15,
+      "whites": 0,
+      "blacks": 0,
+      "saturation": -5,
+      "vibrance": 5,
+      "temperature": 2,
+      "tint": 4,
+      "sharpness": 18,
+      "lumaNoiseReduction": 10,
+      "colorNoiseReduction": 10,
+      "clarity": 10,
+      "dehaze": 8,
+      "structure": 8,
+      "vignetteAmount": -18,
+      "vignetteMidpoint": 45,
+      "vignetteFeather": 55,
+      "vignetteRoundness": 0,
+      "grainAmount": 3,
+      "grainSize": 28,
+      "grainRoughness": 45,
+      "filmBaseColor": "#ff8800",
+      "colorGrading": {
+        "midtones": { "hue": 120, "saturation": 8, "luminance": -3 },
+        "highlights": { "hue": 60, "saturation": 5, "luminance": 0 },
+        "shadows": { "hue": 210, "saturation": 8, "luminance": -3 },
+        "blending": 50,
+        "balance": -3
+      },
+      "colorCalibration": {
+        "redHue": 0,
+        "redSaturation": 3,
+        "greenHue": 5,
+        "greenSaturation": 5,
+        "blueHue": -3,
+        "blueSaturation": 8,
+        "shadowsTint": -3
+      },
+      "hsl": {
+        "greens": { "hue": -10, "saturation": 10, "luminance": -5 },
+        "yellows": { "hue": -5, "saturation": 0, "luminance": 0 },
+        "blues": { "hue": 0, "saturation": -20, "luminance": -5 },
+        "aquas": { "hue": 0, "saturation": -30, "luminance": -5 }
+      },
+      "sectionVisibility": { "basic": true, "color": true, "curves": true, "details": true, "effects": true },
+      "curves": {
+        "luma": [{ "x": 0, "y": 5 }, { "x": 50, "y": 42 }, { "x": 128, "y": 126 }, { "x": 200, "y": 215 }, { "x": 255, "y": 253 }]
+      }
+    }
+  },
+  {
+    "name": "Safari Heat",
+    "creator": "niksmac",
+    "adjustments": {
+      "exposure": 0.15,
+      "contrast": 22,
+      "highlights": -35,
+      "shadows": 18,
+      "whites": 5,
+      "blacks": 3,
+      "saturation": 0,
+      "vibrance": 5,
+      "temperature": 10,
+      "tint": 5,
+      "sharpness": 22,
+      "lumaNoiseReduction": 8,
+      "colorNoiseReduction": 8,
+      "clarity": 12,
+      "dehaze": 10,
+      "structure": 8,
+      "vignetteAmount": -15,
+      "vignetteMidpoint": 50,
+      "vignetteFeather": 55,
+      "vignetteRoundness": 0,
+      "grainAmount": 8,
+      "grainSize": 28,
+      "grainRoughness": 45,
+      "filmBaseColor": "#ff8800",
+      "colorGrading": {
+        "midtones": { "hue": 30, "saturation": 12, "luminance": 3 },
+        "highlights": { "hue": 40, "saturation": 8, "luminance": 5 },
+        "shadows": { "hue": 200, "saturation": 8, "luminance": -3 },
+        "blending": 55,
+        "balance": 0
+      },
+      "colorCalibration": {
+        "redHue": 3,
+        "redSaturation": 8,
+        "greenHue": 3,
+        "greenSaturation": -8,
+        "blueHue": -3,
+        "blueSaturation": -8,
+        "shadowsTint": 5
+      },
+      "hsl": {
+        "oranges": { "hue": -5, "saturation": 15, "luminance": 10 },
+        "yellows": { "hue": -8, "saturation": 10, "luminance": 15 },
+        "greens": { "hue": -12, "saturation": -20, "luminance": -5 },
+        "blues": { "hue": -8, "saturation": -40, "luminance": -8 }
+      },
+      "sectionVisibility": { "basic": true, "color": true, "curves": true, "details": true, "effects": true },
+      "curves": {
+        "luma": [{ "x": 0, "y": 5 }, { "x": 55, "y": 48 }, { "x": 128, "y": 128 }, { "x": 200, "y": 215 }, { "x": 255, "y": 253 }]
+      }
+    }
+  },
+  {
+    "name": "Moody Overcast",
+    "creator": "niksmac",
+    "adjustments": {
+      "exposure": -0.1,
+      "contrast": 25,
+      "highlights": -25,
+      "shadows": 10,
+      "whites": -5,
+      "blacks": -8,
+      "saturation": -10,
+      "vibrance": 0,
+      "temperature": 1,
+      "tint": 5,
+      "sharpness": 15,
+      "lumaNoiseReduction": 12,
+      "colorNoiseReduction": 12,
+      "clarity": 8,
+      "dehaze": 5,
+      "structure": 8,
+      "vignetteAmount": -20,
+      "vignetteMidpoint": 45,
+      "vignetteFeather": 55,
+      "vignetteRoundness": 0,
+      "grainAmount": 10,
+      "grainSize": 30,
+      "grainRoughness": 45,
+      "filmBaseColor": "#ff8800",
+      "colorGrading": {
+        "midtones": { "hue": 120, "saturation": 5, "luminance": -3 },
+        "highlights": { "hue": 50, "saturation": 8, "luminance": 0 },
+        "shadows": { "hue": 210, "saturation": 12, "luminance": -5 },
+        "blending": 55,
+        "balance": -5
+      },
+      "hsl": {
+        "greens": { "hue": -15, "saturation": -15, "luminance": -10 },
+        "yellows": { "hue": 0, "saturation": -20, "luminance": -8 },
+        "blues": { "hue": -5, "saturation": -30, "luminance": -10 },
+        "aquas": { "hue": 0, "saturation": -40, "luminance": -8 }
+      },
+      "sectionVisibility": { "basic": true, "color": true, "curves": true, "details": true, "effects": true },
+      "curves": {
+        "luma": [{ "x": 0, "y": 5 }, { "x": 55, "y": 45 }, { "x": 128, "y": 124 }, { "x": 200, "y": 212 }, { "x": 255, "y": 252 }]
+      }
+    }
+  },
+  {
+    "name": "Bird Flight",
+    "creator": "niksmac",
+    "adjustments": {
+      "exposure": 0.1,
+      "contrast": 18,
+      "highlights": -30,
+      "shadows": 12,
+      "whites": 5,
+      "blacks": 0,
+      "saturation": 0,
+      "vibrance": 5,
+      "temperature": 1,
+      "tint": 2,
+      "sharpness": 25,
+      "lumaNoiseReduction": 10,
+      "colorNoiseReduction": 10,
+      "clarity": 15,
+      "dehaze": 8,
+      "structure": 8,
+      "vignetteAmount": -5,
+      "vignetteMidpoint": 50,
+      "vignetteFeather": 50,
+      "vignetteRoundness": 0,
+      "grainAmount": 0,
+      "grainSize": 25,
+      "grainRoughness": 50,
+      "filmBaseColor": "#ff8800",
+      "colorCalibration": {
+        "redHue": 0,
+        "redSaturation": 5,
+        "greenHue": 3,
+        "greenSaturation": 3,
+        "blueHue": -2,
+        "blueSaturation": 8,
+        "shadowsTint": -2
+      },
+      "hsl": {
+        "blues": { "hue": -5, "saturation": 10, "luminance": -5 },
+        "aquas": { "hue": 0, "saturation": 0, "luminance": 0 },
+        "greens": { "hue": 0, "saturation": 0, "luminance": 0 }
+      },
+      "sectionVisibility": { "basic": true, "color": true, "curves": true, "details": true, "effects": true },
+      "curves": {
+        "luma": [{ "x": 0, "y": 3 }, { "x": 55, "y": 48 }, { "x": 128, "y": 128 }, { "x": 200, "y": 215 }, { "x": 255, "y": 253 }]
+      }
+    }
+  }
+]

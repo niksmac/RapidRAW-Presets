@@ -1,0 +1,103 @@
+{
+  "creator": "niksmac",
+  "presets": [
+    {
+      "preset": {
+        "id": "E5F6A7B8-C9D0-1234-EF01-234567890134",
+        "name": "Forest Canopy",
+        "adjustments": {
+          "exposure": 0,
+          "brightness": 0,
+          "contrast": 22,
+          "highlights": -30,
+          "shadows": 15,
+          "whites": 0,
+          "blacks": 0,
+          "saturation": -5,
+          "vibrance": 5,
+          "temperature": 2,
+          "tint": 4,
+          "sharpness": 18,
+          "lumaNoiseReduction": 10,
+          "colorNoiseReduction": 10,
+          "clarity": 10,
+          "dehaze": 8,
+          "structure": 8,
+          "vignetteAmount": -18,
+          "vignetteMidpoint": 45,
+          "vignetteFeather": 55,
+          "vignetteRoundness": 0,
+          "grainAmount": 3,
+          "grainSize": 28,
+          "grainRoughness": 45,
+          "chromaticAberrationRedCyan": 0,
+          "chromaticAberrationBlueYellow": 0,
+          "showClipping": false,
+          "enableNegativeConversion": false,
+          "negativeRedBalance": 0,
+          "negativeGreenBalance": 0,
+          "negativeBlueBalance": 0,
+          "filmBaseColor": "#ff8800",
+          "lutIntensity": 100,
+          "lutName": null,
+          "lutPath": null,
+          "lutSize": 0,
+          "sectionVisibility": {
+            "basic": true,
+            "color": true,
+            "curves": true,
+            "details": true,
+            "effects": true
+          },
+          "colorGrading": {
+            "shadows": { "hue": 210, "saturation": 8, "luminance": -3 },
+            "midtones": { "hue": 120, "saturation": 8, "luminance": -3 },
+            "highlights": { "hue": 60, "saturation": 5, "luminance": 0 },
+            "blending": 50,
+            "balance": -3
+          },
+          "colorCalibration": {
+            "shadowsTint": -3,
+            "redHue": 0,
+            "redSaturation": 3,
+            "greenHue": 5,
+            "greenSaturation": 5,
+            "blueHue": -3,
+            "blueSaturation": 8
+          },
+          "hsl": {
+            "reds": { "hue": 0, "saturation": 0, "luminance": 0 },
+            "oranges": { "hue": 0, "saturation": 0, "luminance": 0 },
+            "yellows": { "hue": -5, "saturation": 0, "luminance": 0 },
+            "greens": { "hue": -10, "saturation": 10, "luminance": -5 },
+            "aquas": { "hue": 0, "saturation": -30, "luminance": -5 },
+            "blues": { "hue": 0, "saturation": -20, "luminance": -5 },
+            "purples": { "hue": 0, "saturation": 0, "luminance": 0 },
+            "magentas": { "hue": 0, "saturation": 0, "luminance": 0 }
+          },
+          "curves": {
+            "luma": [
+              { "x": 0, "y": 5 },
+              { "x": 50, "y": 42 },
+              { "x": 128, "y": 126 },
+              { "x": 200, "y": 215 },
+              { "x": 255, "y": 253 }
+            ],
+            "red": [
+              { "x": 0, "y": 0 },
+              { "x": 255, "y": 255 }
+            ],
+            "green": [
+              { "x": 0, "y": 0 },
+              { "x": 255, "y": 255 }
+            ],
+            "blue": [
+              { "x": 0, "y": 0 },
+              { "x": 255, "y": 255 }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
